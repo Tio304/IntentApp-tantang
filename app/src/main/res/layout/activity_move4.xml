@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#990033"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/masker" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="          Menggunakan Masker Yang Benar"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Masker sangat penting digunakan orang sakit (demam/batuk/bersin) atau mereka yang merawat orang sakit. Berikut panduan cara menggunakan masker yang tepat."
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Sebelum memasang masker, cuci tangan pakai sabun dan air mengalir (minimal 20 detik) atau bila tidak tersedia, gunakan cairan pembersih tangan (minimal alkohol 60%)."
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2.Pasang masker untuk menutupi mulut dan hidung dan pastikan tidak ada sela antara wajah dan masker."
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Hindari menyentuh masker saat digunakan; bila tersentuh, cuci tangan pakai sabun dan air mengalir minimal 20 detik atau bila tidak ada, cairan pembersih tangan (minimal alkohol 60%)"
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Ganti masker yang basah atau lembab dengan masker baru. Masker medis hanya boleh digunakan satu kali saja. Masker kain dapat digunakan berulang kali."
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. Untuk membuka masker: lepaskan dari belakang. Jangan sentuh bagian depan masker; Untuk masker 1x pakai, buang segera di tempat sampah tertutup atau kantong plastik. Untuk masker kain, segera cuci dengan deterjen. Untuk memasang masker baru, ikuti poin pertama."
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
+
+
